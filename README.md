@@ -7,4 +7,9 @@ echo $FLASK_APP
 
   el programa se corre con
   flask run
+  ejemplo sacado del curso de platzy
   
+  Proyecto BASICO2
+  
+  al proyecto anterior se agrego la opcion de main, para que comienze solo sin tener que hacer una flask run
+  ademas se puede seleccionar el puerto
