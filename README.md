@@ -24,3 +24,19 @@ echo $FLASK_APP
     "Hello": "nombre"
 }
 ejemplo basico de api-get
+APIejemplo2
+ejemplo que devuelve un valor con el metodo GET, el valor se devuelve de segun un diccionario
+se ejecuta http://127.0.0.1:5000/valor/alvaro y devuelve
+{
+    "Hello": "papa"
+}
+
+###### APIejemplo3
+Codigo con programa que recibe los metodos GET, POST y PUT, sacados de aca
+https://dev.to/aligoren/building-basic-restful-api-with-flask-restful-57oh
+
+
+GET http://127.0.0.1:5000/valor/alvaro
+POST http://127.0.0.1:5000/?prueba1=unValor&prueba2=segundovalor
+PUT http://127.0.0.1:5000/update/6
+(ver evernote con uso de programa Postman para probar)
