@@ -16,3 +16,11 @@ echo $FLASK_APP
   
   --archivo main.py 
   ejemplo basado en libro "Mastering Flask Web Development"
+  
+ APIejemplo1
+ (https://blog.nearsoftjobs.com/crear-un-api-y-una-aplicación-web-con-flask-6a76b8bf5383)
+ ejemplo para una api, donde en la ruta 127.0.0.1/hello/nombre
+ devuelve un get con {
+    "Hello": "nombre"
+}
+ejemplo basico de api-get
